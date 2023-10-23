@@ -1,0 +1,53 @@
+[
+  {
+    "Identity": "TESTING_USER13",
+    "Source": "CfgEnvironment",
+    "MissingFrom": "AccEnvironment",
+    "Description": "BPMS AP Accountant?",
+    "WebUser": "TESTING_USER13",
+    "UserType": "EndUser",
+    "Active": true,
+    "ValidFrom": null,
+    "ValidTo": null,
+    "DefaultIdp": true,
+    "FromScim": "FALSE",
+    "UserEmail": null,
+    "PreferredLanguage": "en",
+    "HasPinCode": false,
+    "PersonId": "ANBO",
+    "IsLtuUser": false,
+    "PersonCreation": null
+  },
+  {
+    "Identity": "IFSPRINT",
+    "differences": {
+      "Description": {
+        "CfgEnvironment": "IFS Print Server user",
+        "AccEnvironment": "IFS Print Testing"
+      },
+      "WebUser": {
+        "CfgEnvironment": "IFSPRINT",
+        "AccEnvironment": "IFSPRINTs"
+      }
+    }
+  },
+  {
+    "Identity": "PMA",
+    "Source": "AccEnvironment",
+    "MissingFrom": "CfgEnvironment",
+    "Description": "Philippe Marie ",
+    "WebUser": "PMARIE@BOCCARD.FR",
+    "UserType": "EndUser",
+    "Active": true,
+    "ValidFrom": null,
+    "ValidTo": null,
+    "DefaultIdp": false,
+    "FromScim": "FALSE",
+    "UserEmail": "PMARIE@BOCCARD.FR",
+    "PreferredLanguage": null,
+    "HasPinCode": false,
+    "PersonId": "PMA",
+    "IsLtuUser": false,
+    "PersonCreation": null
+  }
+]

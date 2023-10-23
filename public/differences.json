@@ -1,0 +1,9036 @@
+[
+  {
+    "Company": "B032",
+    "PostingType": "FAP4",
+    "CodeName": "Project",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "FAP4",
+    "CodeName": "Project",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "FAP4",
+    "CodeName": "Assets",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "FAP4",
+    "CodeName": "Assets",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "FAP4",
+    "CodeName": "Interco",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      },
+      "DefaultValue": {
+        "B032": "B032",
+        "B022": "B022"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "FAP4",
+    "CodeName": "Interco",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      },
+      "DefaultValue": {
+        "B034": "B032",
+        "B022": "B022"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "FAP5",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "FAP5",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "FAP5",
+    "CodeName": "Assets",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "FAP5",
+    "CodeName": "Assets",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "FAP5",
+    "CodeName": "Project",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "FAP5",
+    "CodeName": "Project",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "FAP5",
+    "CodeName": "Interco",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "FAP5",
+    "CodeName": "Interco",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "FAP6",
+    "CodeName": "Project",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "FAP6",
+    "CodeName": "Project",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "EP3",
+    "CodeName": "Interco",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "EP3",
+    "CodeName": "Interco",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "EP4",
+    "CodeName": "Interco",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "EP4",
+    "CodeName": "Interco",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "EP5",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "EP5",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "EP5",
+    "CodeName": "Project",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      },
+      "DefaultValue": {
+        "B032": "N000002.01",
+        "B022": "N000001.01"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "EP5",
+    "CodeName": "Project",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      },
+      "DefaultValue": {
+        "B034": "N000003.01",
+        "B022": "N000001.01"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "EP6",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "EP6",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "EP6",
+    "CodeName": "Project",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      },
+      "DefaultValue": {
+        "B032": "N000002.01",
+        "B022": "N000001.01"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "EP6",
+    "CodeName": "Project",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      },
+      "DefaultValue": {
+        "B034": "N000003.01",
+        "B022": "N000001.01"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M14",
+    "CodeName": "Interco",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M14",
+    "CodeName": "Interco",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M14",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M14",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M24",
+    "CodeName": "Interco",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M24",
+    "CodeName": "Interco",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M24",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M24",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M24",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M24",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M24",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M24",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M10",
+    "CodeName": "Interco",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M10",
+    "CodeName": "Interco",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M10",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M10",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "FAP6",
+    "CodeName": "Assets",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "FAP6",
+    "CodeName": "Assets",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "FAP6",
+    "CodeName": "Interco",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "FAP6",
+    "CodeName": "Interco",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "FAP6",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "FAP6",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "FAP7",
+    "CodeName": "Interco",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "FAP7",
+    "CodeName": "Interco",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "FAP7",
+    "CodeName": "Assets",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "FAP7",
+    "CodeName": "Assets",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "FAP7",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "FAP7",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "FAP8",
+    "CodeName": "Interco",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "FAP8",
+    "CodeName": "Interco",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "FAP8",
+    "CodeName": "Assets",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "FAP8",
+    "CodeName": "Assets",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M18",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M18",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M18",
+    "CodeName": "Interco",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M18",
+    "CodeName": "Interco",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M18",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M18",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "IP9",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "IP9",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M19",
+    "CodeName": "Interco",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M19",
+    "CodeName": "Interco",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M19",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M19",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M20",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M20",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M20",
+    "CodeName": "Interco",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M20",
+    "CodeName": "Interco",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M10",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M10",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "FAP1",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "FAP1",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "FAP3",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "FAP3",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "FAP4",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      },
+      "DefaultValue": {
+        "B032": "992100",
+        "B022": "992000"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "FAP4",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      },
+      "DefaultValue": {
+        "B034": "992100",
+        "B022": "992000"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "FAP5",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "FAP5",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "FAP6",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "FAP6",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "FAP8",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "FAP8",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "FAP9",
+    "CodeName": "Assets",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "FAP9",
+    "CodeName": "Assets",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "FAP9",
+    "CodeName": "Interco",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "FAP9",
+    "CodeName": "Interco",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "FAP9",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "FAP9",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "FAP9",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "FAP9",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "FAP10",
+    "CodeName": "Interco",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "FAP10",
+    "CodeName": "Interco",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "FAP10",
+    "CodeName": "Assets",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "FAP10",
+    "CodeName": "Assets",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "FAP10",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "FAP10",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M20",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M20",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M100",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M100",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M101",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M101",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M102",
+    "CodeName": "Assets",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M102",
+    "CodeName": "Assets",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M102",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M102",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "FAP10",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "FAP10",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "FAP11",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      },
+      "ControlType": {
+        "B032": "FAC4",
+        "B022": "AC1"
+      },
+      "ControlTypeDesc": {
+        "B032": "Transaction Reason",
+        "B022": "Fixed value"
+      },
+      "Module": {
+        "B032": "FIXASS",
+        "B022": "ACCRUL"
+      },
+      "DefaultValue": {
+        "B032": null,
+        "B022": "765200"
+      },
+      "CtrlTypeCategory": {
+        "B032": "Ordinary",
+        "B022": "FixedValue"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "FAP11",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      },
+      "ControlType": {
+        "B034": "FAC4",
+        "B022": "AC1"
+      },
+      "ControlTypeDesc": {
+        "B034": "Transaction Reason",
+        "B022": "Fixed value"
+      },
+      "Module": {
+        "B034": "FIXASS",
+        "B022": "ACCRUL"
+      },
+      "DefaultValue": {
+        "B034": null,
+        "B022": "765200"
+      },
+      "CtrlTypeCategory": {
+        "B034": "Ordinary",
+        "B022": "FixedValue"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "FAP12",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      },
+      "ControlType": {
+        "B032": "FAC4",
+        "B022": "AC1"
+      },
+      "ControlTypeDesc": {
+        "B032": "Transaction Reason",
+        "B022": "Fixed value"
+      },
+      "Module": {
+        "B032": "FIXASS",
+        "B022": "ACCRUL"
+      },
+      "DefaultValue": {
+        "B032": null,
+        "B022": "765200"
+      },
+      "CtrlTypeCategory": {
+        "B032": "Ordinary",
+        "B022": "FixedValue"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "FAP12",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      },
+      "ControlType": {
+        "B034": "FAC4",
+        "B022": "AC1"
+      },
+      "ControlTypeDesc": {
+        "B034": "Transaction Reason",
+        "B022": "Fixed value"
+      },
+      "Module": {
+        "B034": "FIXASS",
+        "B022": "ACCRUL"
+      },
+      "DefaultValue": {
+        "B034": null,
+        "B022": "765200"
+      },
+      "CtrlTypeCategory": {
+        "B034": "Ordinary",
+        "B022": "FixedValue"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "FAP14",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      },
+      "DefaultValue": {
+        "B032": "1570",
+        "B022": "080100"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "FAP14",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      },
+      "DefaultValue": {
+        "B034": "1570",
+        "B022": "080100"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "GP2",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      },
+      "DefaultValue": {
+        "B032": "1330",
+        "B022": "640100"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "GP2",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      },
+      "DefaultValue": {
+        "B034": "1330",
+        "B022": "640100"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "GP10",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      },
+      "DefaultValue": {
+        "B032": "7040",
+        "B022": "755101"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "GP10",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      },
+      "DefaultValue": {
+        "B034": "7040",
+        "B022": "755101"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "GP11",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      },
+      "DefaultValue": {
+        "B032": "8040",
+        "B022": "755501"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "GP11",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      },
+      "DefaultValue": {
+        "B034": "8040",
+        "B022": "755501"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "FAP10",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "FAP10",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "FAP11",
+    "CodeName": "Interco",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "FAP11",
+    "CodeName": "Interco",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "FAP11",
+    "CodeName": "Assets",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "FAP11",
+    "CodeName": "Assets",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "FAP11",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "FAP11",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "FAP11",
+    "CodeName": "Project",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "FAP11",
+    "CodeName": "Project",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "FAP12",
+    "CodeName": "Interco",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "FAP12",
+    "CodeName": "Interco",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "FAP12",
+    "CodeName": "Assets",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "FAP12",
+    "CodeName": "Assets",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "FAP12",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "FAP12",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "IP16",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "ControlType": {
+        "B032": "AC1",
+        "B022": "IC1"
+      },
+      "ControlTypeDesc": {
+        "B032": "Fixed value",
+        "B022": "Supplier Group"
+      },
+      "Module": {
+        "B032": "ACCRUL",
+        "B022": "INVOIC"
+      },
+      "DefaultValue": {
+        "B032": "2110",
+        "B022": null
+      },
+      "CtrlTypeCategory": {
+        "B032": "FixedValue",
+        "B022": "Ordinary"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "IP22",
+    "CodeName": "Interco",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "IP22",
+    "CodeName": "Interco",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "IP24",
+    "CodeName": "Interco",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "IP24",
+    "CodeName": "Interco",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "PRJT6",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "PRJT6",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "PRJT1",
+    "CodeName": "Project",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "PRJT1",
+    "CodeName": "Project",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "PRJT6",
+    "CodeName": "Project",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      },
+      "ControlType": {
+        "B032": "PRJC12",
+        "B022": "PRJC13"
+      },
+      "ControlTypeDesc": {
+        "B032": "Project Time Overhead",
+        "B022": "Overhead Pre Posting"
+      },
+      "CtrlTypeCategory": {
+        "B032": "Ordinary",
+        "B022": "PrePosting"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "PRJT6",
+    "CodeName": "Project",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-02",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "PRJT6",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "PRJT6",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M108",
+    "CodeName": "Assets",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M108",
+    "CodeName": "Assets",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M108",
+    "CodeName": "Project",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M108",
+    "CodeName": "Project",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M114",
+    "CodeName": "Project",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M114",
+    "CodeName": "Project",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M115",
+    "CodeName": "Project",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M115",
+    "CodeName": "Project",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M116",
+    "CodeName": "Project",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M116",
+    "CodeName": "Project",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M117",
+    "CodeName": "Project",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M117",
+    "CodeName": "Project",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M118",
+    "CodeName": "Project",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M118",
+    "CodeName": "Project",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M119",
+    "CodeName": "Project",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M119",
+    "CodeName": "Project",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "GP13",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      },
+      "DefaultValue": {
+        "B032": "5009",
+        "B022": "701100"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "GP13",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      },
+      "DefaultValue": {
+        "B034": "5009",
+        "B022": "701100"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "GP14",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      },
+      "DefaultValue": {
+        "B032": "2950",
+        "B022": "840100"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "GP14",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      },
+      "DefaultValue": {
+        "B034": "2950",
+        "B022": "840100"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "GP16",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      },
+      "DefaultValue": {
+        "B032": "5009",
+        "B022": "490100"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "GP16",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      },
+      "DefaultValue": {
+        "B034": "5009",
+        "B022": "490100"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "GP22",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "GP22",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "GP23",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "GP23",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "GP24",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "GP24",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "GP25",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "GP25",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "FAP12",
+    "CodeName": "Project",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "FAP12",
+    "CodeName": "Project",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "FAP14",
+    "CodeName": "Interco",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      },
+      "ControlType": {
+        "B032": "AC1",
+        "B022": "AC2"
+      },
+      "ControlTypeDesc": {
+        "B032": "Fixed value",
+        "B022": "Pre posting"
+      },
+      "DefaultValue": {
+        "B032": "B032",
+        "B022": null
+      },
+      "CtrlTypeCategory": {
+        "B032": "FixedValue",
+        "B022": "PrePosting"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "FAP14",
+    "CodeName": "Interco",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      },
+      "ControlType": {
+        "B034": "AC1",
+        "B022": "AC2"
+      },
+      "ControlTypeDesc": {
+        "B034": "Fixed value",
+        "B022": "Pre posting"
+      },
+      "DefaultValue": {
+        "B034": "B032",
+        "B022": null
+      },
+      "CtrlTypeCategory": {
+        "B034": "FixedValue",
+        "B022": "PrePosting"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "FAP14",
+    "CodeName": "Project",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "FAP14",
+    "CodeName": "Project",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M113",
+    "CodeName": "Project",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M113",
+    "CodeName": "Project",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "GP2",
+    "CodeName": "Project",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "GP2",
+    "CodeName": "Project",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "GP2",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "GP2",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M91",
+    "CodeName": "Interco",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M91",
+    "CodeName": "Interco",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M93",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M93",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M93",
+    "CodeName": "Interco",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      },
+      "DefaultValueNoCt": {
+        "B032": null,
+        "B022": "C999"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M93",
+    "CodeName": "Interco",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      },
+      "DefaultValueNoCt": {
+        "B034": null,
+        "B022": "C999"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M187",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M187",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M189",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M189",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M189",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M189",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M2",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M2",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M4",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M4",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M6",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M6",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M7",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M7",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M62",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M62",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "GP12",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      },
+      "DefaultValue": {
+        "B032": "4030",
+        "B022": "709102"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "GP12",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      },
+      "DefaultValue": {
+        "B034": "4030",
+        "B022": "709102"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "IP3",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "DefaultValue": {
+        "B032": "2560",
+        "B022": "221200"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "IP3",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "DefaultValue": {
+        "B034": "2560",
+        "B022": "221200"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "IP4",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "DefaultValue": {
+        "B032": "2560",
+        "B022": "221100"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "IP4",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "DefaultValue": {
+        "B034": "2560",
+        "B022": "221100"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "IP9",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "IP9",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "IP10",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "IP10",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "GP17",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      },
+      "DefaultValue": {
+        "B032": "4030",
+        "B022": "709102"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "GP17",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      },
+      "DefaultValue": {
+        "B034": "4030",
+        "B022": "709102"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "GP15",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      },
+      "DefaultValue": {
+        "B032": "2900",
+        "B022": "840200"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "GP15",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      },
+      "DefaultValue": {
+        "B034": "2900",
+        "B022": "840200"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "GP3",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      },
+      "DefaultValue": {
+        "B032": "1330",
+        "B022": "660200"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "GP3",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      },
+      "DefaultValue": {
+        "B034": "1330",
+        "B022": "660200"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "GP8",
+    "CodeName": "Interco",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "GP8",
+    "CodeName": "Interco",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "GP9",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "GP9",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "GP9",
+    "CodeName": "Interco",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "GP9",
+    "CodeName": "Interco",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "GP10",
+    "CodeName": "Project",
+    "Difference": {
+      "Override": {
+        "B032": "Allowed",
+        "B022": "NotAllowed"
+      },
+      "DefaultValue": {
+        "B032": "N000002.01",
+        "B022": "N000001.01"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "GP10",
+    "CodeName": "Project",
+    "Difference": {
+      "Override": {
+        "B034": "Allowed",
+        "B022": "NotAllowed"
+      },
+      "DefaultValue": {
+        "B034": "N000003.01",
+        "B022": "N000001.01"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "GP11",
+    "CodeName": "Project",
+    "Difference": {
+      "Override": {
+        "B032": "Allowed",
+        "B022": "NotAllowed"
+      },
+      "DefaultValue": {
+        "B032": "N000002.01",
+        "B022": "N000001.01"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "GP11",
+    "CodeName": "Project",
+    "Difference": {
+      "Override": {
+        "B034": "Allowed",
+        "B022": "NotAllowed"
+      },
+      "DefaultValue": {
+        "B034": "N000003.01",
+        "B022": "N000001.01"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "PRJC1",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "PRJC1",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "IP10",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "IP10",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "SP3",
+    "CodeName": "Project",
+    "Difference": {
+      "DefaultValue": {
+        "B032": "N000002.01",
+        "B022": "N000001.01"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "SP3",
+    "CodeName": "Project",
+    "Difference": {
+      "DefaultValue": {
+        "B034": "N000003.01",
+        "B022": "N000001.01"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "PRJI2",
+    "CodeName": "Interco",
+    "Difference": {
+      "Override": {
+        "B032": "NotAllowed",
+        "B022": "Allowed"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "PRJI2",
+    "CodeName": "Interco",
+    "Difference": {
+      "Override": {
+        "B034": "NotAllowed",
+        "B022": "Allowed"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M4",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M4",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M4",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M4",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M6",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M6",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M6",
+    "CodeName": "Interco",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M6",
+    "CodeName": "Interco",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M6",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M6",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M7",
+    "CodeName": "Interco",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M7",
+    "CodeName": "Interco",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M7",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M7",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M7",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M7",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M8",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M8",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M8",
+    "CodeName": "Interco",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M8",
+    "CodeName": "Interco",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M8",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M8",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M9",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M9",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M9",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M9",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M53",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M53",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M184",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M184",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M184",
+    "CodeName": "Interco",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M184",
+    "CodeName": "Interco",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M184",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M184",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M25",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M25",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M25",
+    "CodeName": "Interco",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M25",
+    "CodeName": "Interco",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M25",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M25",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M27",
+    "CodeName": "Interco",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M27",
+    "CodeName": "Interco",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M28",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M28",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M29",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M29",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M29",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M29",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M29",
+    "CodeName": "Interco",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M29",
+    "CodeName": "Interco",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M30",
+    "CodeName": "Project",
+    "Difference": {
+      "DefaultValue": {
+        "B032": "Z000002.01",
+        "B022": "Z000001.01"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M30",
+    "CodeName": "Project",
+    "Difference": {
+      "DefaultValue": {
+        "B034": "Z000003.01",
+        "B022": "Z000001.01"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M31",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M31",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M31",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M31",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M31",
+    "CodeName": "Interco",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M31",
+    "CodeName": "Interco",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M32",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M32",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M32",
+    "CodeName": "Interco",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M32",
+    "CodeName": "Interco",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M33",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M33",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M33",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M33",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M33",
+    "CodeName": "Interco",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M33",
+    "CodeName": "Interco",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M34",
+    "CodeName": "Project",
+    "Difference": {
+      "DefaultValue": {
+        "B032": "Z000002.01",
+        "B022": "Z000001.01"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M34",
+    "CodeName": "Project",
+    "Difference": {
+      "DefaultValue": {
+        "B034": "Z000003.01",
+        "B022": "Z000001.01"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M35",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M35",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M35",
+    "CodeName": "Interco",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M35",
+    "CodeName": "Interco",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M35",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M35",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M67",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M67",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M67",
+    "CodeName": "Interco",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M67",
+    "CodeName": "Interco",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M67",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M67",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M192",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M192",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M192",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M192",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M192",
+    "CodeName": "Interco",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M192",
+    "CodeName": "Interco",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M14",
+    "CodeName": "Interco",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M14",
+    "CodeName": "Interco",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M14",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M14",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M18",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M18",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M18",
+    "CodeName": "Interco",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M18",
+    "CodeName": "Interco",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M18",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M18",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "IP9",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "IP9",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M19",
+    "CodeName": "Interco",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M19",
+    "CodeName": "Interco",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M19",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M19",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M20",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M20",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M20",
+    "CodeName": "Interco",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M20",
+    "CodeName": "Interco",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M20",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M20",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M65",
+    "CodeName": "Project",
+    "Difference": {
+      "Override": {
+        "B032": "NotAllowed",
+        "B022": "Allowed"
+      },
+      "DefaultValue": {
+        "B032": "N000002.01",
+        "B022": "N000001.01"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M65",
+    "CodeName": "Project",
+    "Difference": {
+      "Override": {
+        "B034": "NotAllowed",
+        "B022": "Allowed"
+      },
+      "DefaultValue": {
+        "B034": "N000003.01",
+        "B022": "N000001.01"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M65",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": {
+      "Override": {
+        "B032": "NotAllowed",
+        "B022": "Allowed"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M65",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": {
+      "Override": {
+        "B034": "NotAllowed",
+        "B022": "Allowed"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M100",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M100",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M101",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M101",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M102",
+    "CodeName": "Assets",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M102",
+    "CodeName": "Assets",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M102",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M102",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M108",
+    "CodeName": "Assets",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M108",
+    "CodeName": "Assets",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M93",
+    "CodeName": "Interco",
+    "Difference": {
+      "DefaultValueNoCt": {
+        "B032": null,
+        "B022": "C999"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M93",
+    "CodeName": "Interco",
+    "Difference": {
+      "DefaultValueNoCt": {
+        "B034": null,
+        "B022": "C999"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M187",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M187",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M189",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M189",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M189",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M189",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M199",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M199",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M200",
+    "CodeName": "Project",
+    "Difference": {
+      "DefaultValue": {
+        "B032": "N000002.01",
+        "B022": "N000001.01"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M200",
+    "CodeName": "Project",
+    "Difference": {
+      "DefaultValue": {
+        "B034": "N000003.01",
+        "B022": "N000001.01"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "PP1",
+    "CodeName": "Interco",
+    "Difference": {
+      "ControlType": {
+        "B032": "AC2",
+        "B022": "AC1"
+      },
+      "ControlTypeDesc": {
+        "B032": "Pre posting",
+        "B022": "Fixed value"
+      },
+      "DefaultValue": {
+        "B032": null,
+        "B022": "C999"
+      },
+      "CtrlTypeCategory": {
+        "B032": "PrePosting",
+        "B022": "FixedValue"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "PP1",
+    "CodeName": "Interco",
+    "Difference": {
+      "ControlType": {
+        "B034": "AC2",
+        "B022": "AC1"
+      },
+      "ControlTypeDesc": {
+        "B034": "Pre posting",
+        "B022": "Fixed value"
+      },
+      "DefaultValue": {
+        "B034": null,
+        "B022": "C999"
+      },
+      "CtrlTypeCategory": {
+        "B034": "PrePosting",
+        "B022": "FixedValue"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "PP4",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "PP4",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "PP4",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "PP4",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "PP7",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "PP7",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "PP8",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "PP8",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "PP9",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "PP9",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "PP10",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "PP10",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "PP12",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "PP12",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "PP12",
+    "CodeName": "Project",
+    "Difference": {
+      "Override": {
+        "B032": "NotAllowed",
+        "B022": "Allowed"
+      },
+      "DefaultValue": {
+        "B032": "N000002.01",
+        "B022": "N000001.01"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "PP12",
+    "CodeName": "Project",
+    "Difference": {
+      "Override": {
+        "B034": "NotAllowed",
+        "B022": "Allowed"
+      },
+      "DefaultValue": {
+        "B034": "N000003.01",
+        "B022": "N000001.01"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "PP13",
+    "CodeName": "Project",
+    "Difference": {
+      "Override": {
+        "B032": "NotAllowed",
+        "B022": "Allowed"
+      },
+      "DefaultValue": {
+        "B032": "N000002.01",
+        "B022": "N000001.01"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "PP13",
+    "CodeName": "Project",
+    "Difference": {
+      "Override": {
+        "B034": "NotAllowed",
+        "B022": "Allowed"
+      },
+      "DefaultValue": {
+        "B034": "N000003.01",
+        "B022": "N000001.01"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "PP13",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "PP13",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "PP15",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "PP15",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "PP15",
+    "CodeName": "Interco",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "PP15",
+    "CodeName": "Interco",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "PP16",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "PP16",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "PP16",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "PP16",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "PP17",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "PP17",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "PP17",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "PP17",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "PP73",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "PP73",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "PP73",
+    "CodeName": "Interco",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "PP73",
+    "CodeName": "Interco",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "PP74",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "PP74",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "PP74",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "PP74",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "PP75",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "PP75",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "PP75",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "PP75",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "PP79",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "PP79",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "PP79",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "PP79",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "PP80",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "PP80",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "PP80",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "PP80",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "PP83",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "PP83",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "PP83",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "PP83",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "PP84",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "PP84",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M19",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M19",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "IP1",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "ControlType": {
+        "B032": "AC1",
+        "B022": "IC1"
+      },
+      "ControlTypeDesc": {
+        "B032": "Fixed value",
+        "B022": "Supplier Group"
+      },
+      "Module": {
+        "B032": "ACCRUL",
+        "B022": "INVOIC"
+      },
+      "DefaultValue": {
+        "B032": "2110",
+        "B022": null
+      },
+      "DefaultValueNoCt": {
+        "B032": null,
+        "B022": "204100"
+      },
+      "CtrlTypeCategory": {
+        "B032": "FixedValue",
+        "B022": "Ordinary"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "IP1",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "ControlType": {
+        "B034": "AC1",
+        "B022": "IC1"
+      },
+      "ControlTypeDesc": {
+        "B034": "Fixed value",
+        "B022": "Supplier Group"
+      },
+      "Module": {
+        "B034": "ACCRUL",
+        "B022": "INVOIC"
+      },
+      "DefaultValue": {
+        "B034": "2110",
+        "B022": null
+      },
+      "DefaultValueNoCt": {
+        "B034": null,
+        "B022": "204100"
+      },
+      "CtrlTypeCategory": {
+        "B034": "FixedValue",
+        "B022": "Ordinary"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "IP2",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "ControlType": {
+        "B032": "AC1",
+        "B022": "IC2"
+      },
+      "ControlTypeDesc": {
+        "B032": "Fixed value",
+        "B022": "Customer Group"
+      },
+      "Module": {
+        "B032": "ACCRUL",
+        "B022": "INVOIC"
+      },
+      "DefaultValue": {
+        "B032": "1210",
+        "B022": "203100"
+      },
+      "DefaultValueNoCt": {
+        "B032": null,
+        "B022": "203100"
+      },
+      "CtrlTypeCategory": {
+        "B032": "FixedValue",
+        "B022": "Ordinary"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "IP2",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "ControlType": {
+        "B034": "AC1",
+        "B022": "IC2"
+      },
+      "ControlTypeDesc": {
+        "B034": "Fixed value",
+        "B022": "Customer Group"
+      },
+      "Module": {
+        "B034": "ACCRUL",
+        "B022": "INVOIC"
+      },
+      "DefaultValue": {
+        "B034": "1210",
+        "B022": "203100"
+      },
+      "DefaultValueNoCt": {
+        "B034": null,
+        "B022": "203100"
+      },
+      "CtrlTypeCategory": {
+        "B034": "FixedValue",
+        "B022": "Ordinary"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "IP5",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "DefaultValue": {
+        "B032": "1360",
+        "B022": "303300"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "IP5",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "DefaultValue": {
+        "B034": "1360",
+        "B022": "303300"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "PP7",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "ControlType": {
+        "B032": "AC1",
+        "B022": "IC1"
+      },
+      "ControlTypeDesc": {
+        "B032": "Fixed value",
+        "B022": "Supplier Group"
+      },
+      "Module": {
+        "B032": "ACCRUL",
+        "B022": "INVOIC"
+      },
+      "DefaultValue": {
+        "B032": "1215",
+        "B022": "209100"
+      },
+      "DefaultValueNoCt": {
+        "B032": null,
+        "B022": "209100"
+      },
+      "CtrlTypeCategory": {
+        "B032": "FixedValue",
+        "B022": "Ordinary"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "PP7",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "ControlType": {
+        "B034": "AC1",
+        "B022": "IC1"
+      },
+      "ControlTypeDesc": {
+        "B034": "Fixed value",
+        "B022": "Supplier Group"
+      },
+      "Module": {
+        "B034": "ACCRUL",
+        "B022": "INVOIC"
+      },
+      "DefaultValue": {
+        "B034": "1215",
+        "B022": "209100"
+      },
+      "DefaultValueNoCt": {
+        "B034": null,
+        "B022": "209100"
+      },
+      "CtrlTypeCategory": {
+        "B034": "FixedValue",
+        "B022": "Ordinary"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "PP8",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "ControlType": {
+        "B032": "AC1",
+        "B022": "IC2"
+      },
+      "ControlTypeDesc": {
+        "B032": "Fixed value",
+        "B022": "Customer Group"
+      },
+      "Module": {
+        "B032": "ACCRUL",
+        "B022": "INVOIC"
+      },
+      "DefaultValue": {
+        "B032": "1480",
+        "B022": "205100"
+      },
+      "DefaultValueNoCt": {
+        "B032": null,
+        "B022": "205100"
+      },
+      "CtrlTypeCategory": {
+        "B032": "FixedValue",
+        "B022": "Ordinary"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "PP8",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "ControlType": {
+        "B034": "AC1",
+        "B022": "IC2"
+      },
+      "ControlTypeDesc": {
+        "B034": "Fixed value",
+        "B022": "Customer Group"
+      },
+      "Module": {
+        "B034": "ACCRUL",
+        "B022": "INVOIC"
+      },
+      "DefaultValue": {
+        "B034": "1480",
+        "B022": "205100"
+      },
+      "DefaultValueNoCt": {
+        "B034": null,
+        "B022": "205100"
+      },
+      "CtrlTypeCategory": {
+        "B034": "FixedValue",
+        "B022": "Ordinary"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "PP9",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "PP9",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "PP10",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "PP10",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "PP73",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "PP73",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "PRJT1",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "PRJT1",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "IP22",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "IP22",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "IP22",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "IP22",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "IP24",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "IP24",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "PRJT1",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "PRJT1",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "PRJT2",
+    "CodeName": "Project",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      },
+      "ControlType": {
+        "B032": "AC1",
+        "B022": "PRJC15"
+      },
+      "ControlTypeDesc": {
+        "B032": "Fixed value",
+        "B022": "Organization Code Pre Posting"
+      },
+      "Module": {
+        "B032": "ACCRUL",
+        "B022": "PRJREP"
+      },
+      "DefaultValue": {
+        "B032": "W000002.01",
+        "B022": null
+      },
+      "CtrlTypeCategory": {
+        "B032": "FixedValue",
+        "B022": "PrePosting"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "PRJT2",
+    "CodeName": "Project",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "PRJT2",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "PRJT2",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "PRJT2",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "PRJT2",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "PRJT5",
+    "CodeName": "Project",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "PRJT5",
+    "CodeName": "Project",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "PRJT5",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "PRJT5",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "PRJT5",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "PRJT5",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "GP14",
+    "CodeName": "Interco",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "GP14",
+    "CodeName": "Interco",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "GP15",
+    "CodeName": "Interco",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "GP15",
+    "CodeName": "Interco",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "IP1",
+    "CodeName": "Project",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "IP1",
+    "CodeName": "Project",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "IP1",
+    "CodeName": "Interco",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "IP1",
+    "CodeName": "Interco",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "IP2",
+    "CodeName": "Project",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "IP2",
+    "CodeName": "Project",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "PP7",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "PP7",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "PP7",
+    "CodeName": "Interco",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "PP7",
+    "CodeName": "Interco",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "PP10",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "PP10",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "PP12",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "PP12",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "PP12",
+    "CodeName": "Project",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      },
+      "Override": {
+        "B032": "NotAllowed",
+        "B022": "Allowed"
+      },
+      "DefaultValue": {
+        "B032": "N000002.01",
+        "B022": "N000001.01"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "PP12",
+    "CodeName": "Project",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      },
+      "Override": {
+        "B034": "NotAllowed",
+        "B022": "Allowed"
+      },
+      "DefaultValue": {
+        "B034": "N000003.01",
+        "B022": "N000001.01"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M34",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      },
+      "DefaultValue": {
+        "B032": "4010",
+        "B022": "740100"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M34",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      },
+      "DefaultValue": {
+        "B034": "4010",
+        "B022": "740100"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M35",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M35",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M67",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M67",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M192",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M192",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M14",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M14",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M18",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M18",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M91",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      },
+      "DefaultValue": {
+        "B032": "1360",
+        "B022": "303300"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M91",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      },
+      "DefaultValue": {
+        "B034": "1360",
+        "B022": "303300"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "IP2",
+    "CodeName": "Interco",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "IP2",
+    "CodeName": "Interco",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "IP3",
+    "CodeName": "Project",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "IP3",
+    "CodeName": "Project",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "IP3",
+    "CodeName": "Interco",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "IP3",
+    "CodeName": "Interco",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "IP4",
+    "CodeName": "Project",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "IP4",
+    "CodeName": "Project",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "IP4",
+    "CodeName": "Interco",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "IP4",
+    "CodeName": "Interco",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "IP10",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "IP10",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "IP18",
+    "CodeName": "Project",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "IP18",
+    "CodeName": "Project",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "PP13",
+    "CodeName": "Project",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      },
+      "Override": {
+        "B032": "NotAllowed",
+        "B022": "Allowed"
+      },
+      "DefaultValue": {
+        "B032": "N000002.01",
+        "B022": "N000001.01"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "PP13",
+    "CodeName": "Project",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      },
+      "Override": {
+        "B034": "NotAllowed",
+        "B022": "Allowed"
+      },
+      "DefaultValue": {
+        "B034": "N000003.01",
+        "B022": "N000001.01"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "PP13",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "PP13",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "PP15",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "PP15",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "PP15",
+    "CodeName": "Interco",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "PP15",
+    "CodeName": "Interco",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "PP16",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "PP16",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "PP16",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "PP16",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "PP17",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "PP17",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "PP17",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "PP17",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M187",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M187",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M189",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M189",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "EP2",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      },
+      "DefaultValue": {
+        "B032": "1010",
+        "B022": "130105"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "EP2",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      },
+      "DefaultValue": {
+        "B034": "1010",
+        "B022": "130105"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "EP3",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      },
+      "DefaultValue": {
+        "B032": "2120",
+        "B022": "234100"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "EP3",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      },
+      "DefaultValue": {
+        "B034": "2120",
+        "B022": "234100"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "IP18",
+    "CodeName": "Interco",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "IP18",
+    "CodeName": "Interco",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "PRJI1",
+    "CodeName": "Interco",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      },
+      "Override": {
+        "B032": "NotAllowed",
+        "B022": "Allowed"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "PRJI1",
+    "CodeName": "Interco",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      },
+      "Override": {
+        "B034": "NotAllowed",
+        "B022": "Allowed"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "PRJI1",
+    "CodeName": "Project",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "PRJI1",
+    "CodeName": "Project",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "PRJI1",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "PRJI1",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "PRJI2",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "PRJI2",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "PRJI2",
+    "CodeName": "Interco",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      },
+      "Override": {
+        "B032": "NotAllowed",
+        "B022": "Allowed"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "PRJI2",
+    "CodeName": "Interco",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      },
+      "Override": {
+        "B034": "NotAllowed",
+        "B022": "Allowed"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "EP5",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      },
+      "DefaultValue": {
+        "B032": "7040",
+        "B022": "755501"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "EP5",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      },
+      "DefaultValue": {
+        "B034": "7040",
+        "B022": "755501"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "EP6",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      },
+      "DefaultValue": {
+        "B032": "7040",
+        "B022": "755101"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "EP6",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      },
+      "DefaultValue": {
+        "B034": "7040",
+        "B022": "755101"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "PP4",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "PP4",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "PP12",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      },
+      "DefaultValue": {
+        "B032": "8040",
+        "B022": "755500"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "PP12",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      },
+      "DefaultValue": {
+        "B034": "8040",
+        "B022": "755500"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "PP13",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      },
+      "DefaultValue": {
+        "B032": "7040",
+        "B022": "755100"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "PP13",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      },
+      "DefaultValue": {
+        "B034": "7040",
+        "B022": "755100"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "PP16",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "PP16",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "PP17",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "PP17",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "PRJI2",
+    "CodeName": "Project",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "PRJI2",
+    "CodeName": "Project",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M4",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M4",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M4",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M4",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M6",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M6",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M6",
+    "CodeName": "Interco",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M6",
+    "CodeName": "Interco",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M6",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M6",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M7",
+    "CodeName": "Interco",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M7",
+    "CodeName": "Interco",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M7",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M7",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "FAP31",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "FAP31",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "FAP31",
+    "CodeName": "Interco",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "FAP31",
+    "CodeName": "Interco",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "FAP31",
+    "CodeName": "Assets",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "FAP31",
+    "CodeName": "Assets",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "FAP9",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "FAP9",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "FAP7",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "FAP7",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "FAP8",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "FAP8",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M7",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M7",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M8",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M8",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M8",
+    "CodeName": "Interco",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M8",
+    "CodeName": "Interco",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M8",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M8",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M9",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M9",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M9",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M9",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M53",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M53",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M184",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M184",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "FAP32",
+    "CodeName": "Interco",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "FAP32",
+    "CodeName": "Interco",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "FAP32",
+    "CodeName": "Assets",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "FAP32",
+    "CodeName": "Assets",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "FAP32",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "FAP32",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "FAP39",
+    "CodeName": "Assets",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "FAP39",
+    "CodeName": "Assets",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "FAP39",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "FAP39",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "FAP39",
+    "CodeName": "Interco",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "FAP39",
+    "CodeName": "Interco",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M19",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M19",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "GP9",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "GP9",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "IP18",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      },
+      "ControlType": {
+        "B032": "AC1",
+        "B022": "IC1"
+      },
+      "ControlTypeDesc": {
+        "B032": "Fixed value",
+        "B022": "Supplier Group"
+      },
+      "Module": {
+        "B032": "ACCRUL",
+        "B022": "INVOIC"
+      },
+      "DefaultValue": {
+        "B032": "1215",
+        "B022": null
+      },
+      "CtrlTypeCategory": {
+        "B032": "FixedValue",
+        "B022": "Ordinary"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "IP18",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      },
+      "ControlType": {
+        "B034": "AC1",
+        "B022": "IC1"
+      },
+      "ControlTypeDesc": {
+        "B034": "Fixed value",
+        "B022": "Supplier Group"
+      },
+      "Module": {
+        "B034": "ACCRUL",
+        "B022": "INVOIC"
+      },
+      "DefaultValue": {
+        "B034": "1215",
+        "B022": null
+      },
+      "CtrlTypeCategory": {
+        "B034": "FixedValue",
+        "B022": "Ordinary"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "PRJI1",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "PRJI1",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "PRJI2",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "PRJI2",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "EP1",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      },
+      "ControlType": {
+        "B032": "AC1",
+        "B022": "EPC2"
+      },
+      "ControlTypeDesc": {
+        "B032": "Fixed value",
+        "B022": "Employee"
+      },
+      "Module": {
+        "B032": "ACCRUL",
+        "B022": "EMPPAY"
+      },
+      "DefaultValue": {
+        "B032": "1470",
+        "B022": "234100"
+      },
+      "CtrlTypeCategory": {
+        "B032": "FixedValue",
+        "B022": "Ordinary"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "EP1",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      },
+      "ControlType": {
+        "B034": "AC1",
+        "B022": "EPC2"
+      },
+      "ControlTypeDesc": {
+        "B034": "Fixed value",
+        "B022": "Employee"
+      },
+      "Module": {
+        "B034": "ACCRUL",
+        "B022": "EMPPAY"
+      },
+      "DefaultValue": {
+        "B034": "1470",
+        "B022": "234100"
+      },
+      "CtrlTypeCategory": {
+        "B034": "FixedValue",
+        "B022": "Ordinary"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M184",
+    "CodeName": "Interco",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M184",
+    "CodeName": "Interco",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M184",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M184",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M25",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M25",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M25",
+    "CodeName": "Interco",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M25",
+    "CodeName": "Interco",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M25",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M25",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M27",
+    "CodeName": "Interco",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M27",
+    "CodeName": "Interco",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M28",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M28",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M28",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M28",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "GP4",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      },
+      "DefaultValue": {
+        "B032": "2950",
+        "B022": "660100"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "GP4",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      },
+      "DefaultValue": {
+        "B034": "2950",
+        "B022": "660100"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "GP5",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      },
+      "DefaultValue": {
+        "B032": "4030",
+        "B022": "709101"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "GP5",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      },
+      "DefaultValue": {
+        "B034": "4030",
+        "B022": "709101"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "IP1",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      },
+      "ControlType": {
+        "B032": "AC1",
+        "B022": "IC1"
+      },
+      "ControlTypeDesc": {
+        "B032": "Fixed value",
+        "B022": "Supplier Group"
+      },
+      "Module": {
+        "B032": "ACCRUL",
+        "B022": "INVOIC"
+      },
+      "DefaultValue": {
+        "B032": "2110",
+        "B022": null
+      },
+      "DefaultValueNoCt": {
+        "B032": null,
+        "B022": "204100"
+      },
+      "CtrlTypeCategory": {
+        "B032": "FixedValue",
+        "B022": "Ordinary"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "IP1",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      },
+      "ControlType": {
+        "B034": "AC1",
+        "B022": "IC1"
+      },
+      "ControlTypeDesc": {
+        "B034": "Fixed value",
+        "B022": "Supplier Group"
+      },
+      "Module": {
+        "B034": "ACCRUL",
+        "B022": "INVOIC"
+      },
+      "DefaultValue": {
+        "B034": "2110",
+        "B022": null
+      },
+      "DefaultValueNoCt": {
+        "B034": null,
+        "B022": "204100"
+      },
+      "CtrlTypeCategory": {
+        "B034": "FixedValue",
+        "B022": "Ordinary"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "IP2",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      },
+      "ControlType": {
+        "B032": "AC1",
+        "B022": "IC2"
+      },
+      "ControlTypeDesc": {
+        "B032": "Fixed value",
+        "B022": "Customer Group"
+      },
+      "Module": {
+        "B032": "ACCRUL",
+        "B022": "INVOIC"
+      },
+      "DefaultValue": {
+        "B032": "1210",
+        "B022": "203100"
+      },
+      "DefaultValueNoCt": {
+        "B032": null,
+        "B022": "203100"
+      },
+      "CtrlTypeCategory": {
+        "B032": "FixedValue",
+        "B022": "Ordinary"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "IP2",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      },
+      "ControlType": {
+        "B034": "AC1",
+        "B022": "IC2"
+      },
+      "ControlTypeDesc": {
+        "B034": "Fixed value",
+        "B022": "Customer Group"
+      },
+      "Module": {
+        "B034": "ACCRUL",
+        "B022": "INVOIC"
+      },
+      "DefaultValue": {
+        "B034": "1210",
+        "B022": "203100"
+      },
+      "DefaultValueNoCt": {
+        "B034": null,
+        "B022": "203100"
+      },
+      "CtrlTypeCategory": {
+        "B034": "FixedValue",
+        "B022": "Ordinary"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "PP7",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      },
+      "ControlType": {
+        "B032": "AC1",
+        "B022": "IC1"
+      },
+      "ControlTypeDesc": {
+        "B032": "Fixed value",
+        "B022": "Supplier Group"
+      },
+      "Module": {
+        "B032": "ACCRUL",
+        "B022": "INVOIC"
+      },
+      "DefaultValue": {
+        "B032": "1215",
+        "B022": "209100"
+      },
+      "DefaultValueNoCt": {
+        "B032": null,
+        "B022": "209100"
+      },
+      "CtrlTypeCategory": {
+        "B032": "FixedValue",
+        "B022": "Ordinary"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "PP7",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      },
+      "ControlType": {
+        "B034": "AC1",
+        "B022": "IC1"
+      },
+      "ControlTypeDesc": {
+        "B034": "Fixed value",
+        "B022": "Supplier Group"
+      },
+      "Module": {
+        "B034": "ACCRUL",
+        "B022": "INVOIC"
+      },
+      "DefaultValue": {
+        "B034": "1215",
+        "B022": "209100"
+      },
+      "DefaultValueNoCt": {
+        "B034": null,
+        "B022": "209100"
+      },
+      "CtrlTypeCategory": {
+        "B034": "FixedValue",
+        "B022": "Ordinary"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M28",
+    "CodeName": "Interco",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M28",
+    "CodeName": "Interco",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M29",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M29",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M29",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M29",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M30",
+    "CodeName": "Project",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      },
+      "DefaultValue": {
+        "B032": "Z000002.01",
+        "B022": "Z000001.01"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M30",
+    "CodeName": "Project",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      },
+      "DefaultValue": {
+        "B034": "Z000003.01",
+        "B022": "Z000001.01"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M30",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M30",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M30",
+    "CodeName": "Interco",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M30",
+    "CodeName": "Interco",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M31",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M31",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "PP10",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "PP10",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "IP16",
+    "CodeName": "Project",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "IP16",
+    "CodeName": "Interco",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "IP22",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "IP22",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "IP22",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "IP22",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "IP24",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "IP24",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "EP4",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      },
+      "ControlType": {
+        "B032": "AC1",
+        "B022": "EPC2"
+      },
+      "ControlTypeDesc": {
+        "B032": "Fixed value",
+        "B022": "Employee"
+      },
+      "Module": {
+        "B032": "ACCRUL",
+        "B022": "EMPPAY"
+      },
+      "DefaultValue": {
+        "B032": "2210",
+        "B022": "234200"
+      },
+      "CtrlTypeCategory": {
+        "B032": "FixedValue",
+        "B022": "Ordinary"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "EP4",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      },
+      "ControlType": {
+        "B034": "AC1",
+        "B022": "EPC2"
+      },
+      "ControlTypeDesc": {
+        "B034": "Fixed value",
+        "B022": "Employee"
+      },
+      "Module": {
+        "B034": "ACCRUL",
+        "B022": "EMPPAY"
+      },
+      "DefaultValue": {
+        "B034": "2210",
+        "B022": "234200"
+      },
+      "CtrlTypeCategory": {
+        "B034": "FixedValue",
+        "B022": "Ordinary"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "IP16",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      },
+      "ControlType": {
+        "B032": "AC1",
+        "B022": "IC1"
+      },
+      "ControlTypeDesc": {
+        "B032": "Fixed value",
+        "B022": "Supplier Group"
+      },
+      "Module": {
+        "B032": "ACCRUL",
+        "B022": "INVOIC"
+      },
+      "DefaultValue": {
+        "B032": "2110",
+        "B022": null
+      },
+      "CtrlTypeCategory": {
+        "B032": "FixedValue",
+        "B022": "Ordinary"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "IP22",
+    "CodeName": "Interco",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "IP22",
+    "CodeName": "Interco",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "IP24",
+    "CodeName": "Interco",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "IP24",
+    "CodeName": "Interco",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M31",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M31",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M31",
+    "CodeName": "Interco",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M31",
+    "CodeName": "Interco",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M32",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M32",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M32",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M32",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M32",
+    "CodeName": "Interco",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M32",
+    "CodeName": "Interco",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M33",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M33",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M33",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M33",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M33",
+    "CodeName": "Interco",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M33",
+    "CodeName": "Interco",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M19",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M19",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M20",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M20",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M93",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M93",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M197",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M197",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M198",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M198",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "PP1",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "PP1",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "FAP31",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "FAP31",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "FAP32",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "FAP32",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "FAP39",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "FAP39",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "FAP40",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "FAP40",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "IP3",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      },
+      "DefaultValue": {
+        "B032": "2560",
+        "B022": "221200"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "IP3",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      },
+      "DefaultValue": {
+        "B034": "2560",
+        "B022": "221200"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "IP4",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      },
+      "DefaultValue": {
+        "B032": "2560",
+        "B022": "221100"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "IP4",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      },
+      "DefaultValue": {
+        "B034": "2560",
+        "B022": "221100"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "IP9",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "IP9",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "IP10",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "IP10",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M34",
+    "CodeName": "Project",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      },
+      "DefaultValue": {
+        "B032": "Z000002.01",
+        "B022": "Z000001.01"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M34",
+    "CodeName": "Project",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      },
+      "DefaultValue": {
+        "B034": "Z000003.01",
+        "B022": "Z000001.01"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M34",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M34",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M34",
+    "CodeName": "Interco",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M34",
+    "CodeName": "Interco",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M35",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M35",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M35",
+    "CodeName": "Interco",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M35",
+    "CodeName": "Interco",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M35",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M35",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M67",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M67",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M67",
+    "CodeName": "Interco",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M67",
+    "CodeName": "Interco",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "PP15",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      },
+      "ControlType": {
+        "B032": "AC1",
+        "B022": "PC3"
+      },
+      "ControlTypeDesc": {
+        "B032": "Fixed value",
+        "B022": "Bad Debt Level"
+      },
+      "Module": {
+        "B032": "ACCRUL",
+        "B022": "PAYLED"
+      },
+      "DefaultValue": {
+        "B032": "1290",
+        "B022": null
+      },
+      "CtrlTypeCategory": {
+        "B032": "FixedValue",
+        "B022": "Ordinary"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "PP15",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      },
+      "ControlType": {
+        "B034": "AC1",
+        "B022": "PC3"
+      },
+      "ControlTypeDesc": {
+        "B034": "Fixed value",
+        "B022": "Bad Debt Level"
+      },
+      "Module": {
+        "B034": "ACCRUL",
+        "B022": "PAYLED"
+      },
+      "DefaultValue": {
+        "B034": "1290",
+        "B022": null
+      },
+      "CtrlTypeCategory": {
+        "B034": "FixedValue",
+        "B022": "Ordinary"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M62",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M62",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M1",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M1",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M1",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M1",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M1",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M1",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M3",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M3",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M3",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M3",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "FAP1",
+    "CodeName": "Project",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "FAP1",
+    "CodeName": "Project",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M29",
+    "CodeName": "Interco",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M29",
+    "CodeName": "Interco",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "FAP1",
+    "CodeName": "Interco",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "FAP1",
+    "CodeName": "Interco",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "FAP1",
+    "CodeName": "Assets",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "FAP1",
+    "CodeName": "Assets",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "FAP2",
+    "CodeName": "Project",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "FAP2",
+    "CodeName": "Project",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "FAP2",
+    "CodeName": "Interco",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "FAP2",
+    "CodeName": "Interco",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "FAP3",
+    "CodeName": "Assets",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "FAP3",
+    "CodeName": "Assets",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "FAP3",
+    "CodeName": "Interco",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "FAP3",
+    "CodeName": "Interco",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "FAP3",
+    "CodeName": "Project",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "FAP3",
+    "CodeName": "Project",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M67",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M67",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M192",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M192",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M192",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M192",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M192",
+    "CodeName": "Interco",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M192",
+    "CodeName": "Interco",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M103",
+    "CodeName": "Project",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M103",
+    "CodeName": "Project",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M104",
+    "CodeName": "Project",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M104",
+    "CodeName": "Project",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "EP1",
+    "CodeName": "Interco",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "EP1",
+    "CodeName": "Interco",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "EP2",
+    "CodeName": "Interco",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "EP2",
+    "CodeName": "Interco",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M3",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M3",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M5",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M5",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M19",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M19",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M20",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M20",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M197",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M197",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M198",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M198",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "PP15",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "ControlType": {
+        "B032": "AC1",
+        "B022": "PC3"
+      },
+      "ControlTypeDesc": {
+        "B032": "Fixed value",
+        "B022": "Bad Debt Level"
+      },
+      "Module": {
+        "B032": "ACCRUL",
+        "B022": "PAYLED"
+      },
+      "DefaultValue": {
+        "B032": "1290",
+        "B022": null
+      },
+      "CtrlTypeCategory": {
+        "B032": "FixedValue",
+        "B022": "Ordinary"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "PP15",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "ControlType": {
+        "B034": "AC1",
+        "B022": "PC3"
+      },
+      "ControlTypeDesc": {
+        "B034": "Fixed value",
+        "B022": "Bad Debt Level"
+      },
+      "Module": {
+        "B034": "ACCRUL",
+        "B022": "PAYLED"
+      },
+      "DefaultValue": {
+        "B034": "1290",
+        "B022": null
+      },
+      "CtrlTypeCategory": {
+        "B034": "FixedValue",
+        "B022": "Ordinary"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M62",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M62",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M62",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M62",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M1",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M1",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M1",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M1",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M1",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M1",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M3",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M3",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M3",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M3",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M3",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M3",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M5",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M5",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "TX3",
+    "CodeName": "Project",
+    "Difference": {
+      "DefaultValue": {
+        "B032": "N000002.01",
+        "B022": "N000001.01"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "TX3",
+    "CodeName": "Project",
+    "Difference": {
+      "DefaultValue": {
+        "B034": "N000003.01",
+        "B022": "N000001.01"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "TX3",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "DefaultValue": {
+        "B032": "1210",
+        "B022": "234100"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "TX3",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "DefaultValue": {
+        "B034": "1210",
+        "B022": "234100"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "TX7",
+    "CodeName": "Project",
+    "Difference": {
+      "DefaultValue": {
+        "B032": "N000002.01",
+        "B022": "N000001.01"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "TX7",
+    "CodeName": "Project",
+    "Difference": {
+      "DefaultValue": {
+        "B034": "N000003.01",
+        "B022": "N000001.01"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M24",
+    "CodeName": "Interco",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M24",
+    "CodeName": "Interco",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M24",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M24",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M24",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M24",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M24",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M24",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M10",
+    "CodeName": "Interco",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M10",
+    "CodeName": "Interco",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M10",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M10",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M10",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M10",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M8",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M8",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M9",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M9",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M184",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M184",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M25",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M25",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "GP9",
+    "CodeName": "Interco",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "GP9",
+    "CodeName": "Interco",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "GP12",
+    "CodeName": "Interco",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "GP12",
+    "CodeName": "Interco",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "GP13",
+    "CodeName": "Interco",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "GP13",
+    "CodeName": "Interco",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "PP1",
+    "CodeName": "Interco",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      },
+      "ControlType": {
+        "B032": "AC2",
+        "B022": "AC1"
+      },
+      "ControlTypeDesc": {
+        "B032": "Pre posting",
+        "B022": "Fixed value"
+      },
+      "DefaultValue": {
+        "B032": null,
+        "B022": "C999"
+      },
+      "CtrlTypeCategory": {
+        "B032": "PrePosting",
+        "B022": "FixedValue"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "PP1",
+    "CodeName": "Interco",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      },
+      "ControlType": {
+        "B034": "AC2",
+        "B022": "AC1"
+      },
+      "ControlTypeDesc": {
+        "B034": "Pre posting",
+        "B022": "Fixed value"
+      },
+      "DefaultValue": {
+        "B034": null,
+        "B022": "C999"
+      },
+      "CtrlTypeCategory": {
+        "B034": "PrePosting",
+        "B022": "FixedValue"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "PP4",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "PP4",
+    "CodeName": "PCE/BDRIVE",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "PP4",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "PP4",
+    "CodeName": "Project",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M26",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      },
+      "DefaultValue": {
+        "B032": "4030",
+        "B022": "741100"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M26",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      },
+      "DefaultValue": {
+        "B034": "4030",
+        "B022": "741100"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M27",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      },
+      "DefaultValue": {
+        "B032": "4030",
+        "B022": "301300"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M27",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      },
+      "DefaultValue": {
+        "B034": "4030",
+        "B022": "301300"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M28",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      },
+      "DefaultValue": {
+        "B032": "4010",
+        "B022": "740100"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M28",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      },
+      "DefaultValue": {
+        "B034": "4010",
+        "B022": "740100"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M29",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M29",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M30",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      },
+      "DefaultValue": {
+        "B032": "4010",
+        "B022": "740100"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M30",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      },
+      "DefaultValue": {
+        "B034": "4010",
+        "B022": "740100"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M31",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M31",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M32",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      },
+      "DefaultValue": {
+        "B032": "4010",
+        "B022": "740100"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M32",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      },
+      "DefaultValue": {
+        "B034": "4010",
+        "B022": "740100"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M33",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M33",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "FAP2",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "PcValidFrom": {
+        "B032": "2023-09-01",
+        "B022": "2022-01-01"
+      },
+      "DefaultValue": {
+        "B032": "1570",
+        "B022": "992000"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "FAP2",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "PcValidFrom": {
+        "B034": "2023-09-01",
+        "B022": "2022-01-01"
+      },
+      "DefaultValue": {
+        "B034": "1570",
+        "B022": "992000"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "GP2",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "DefaultValue": {
+        "B032": "1330",
+        "B022": "640100"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "GP2",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "DefaultValue": {
+        "B034": "1330",
+        "B022": "640100"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "GP8",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "GP8",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "GP10",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "DefaultValue": {
+        "B032": "7040",
+        "B022": "755101"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "GP10",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "DefaultValue": {
+        "B034": "7040",
+        "B022": "755101"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "GP11",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "DefaultValue": {
+        "B032": "8040",
+        "B022": "755501"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "GP11",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "DefaultValue": {
+        "B034": "8040",
+        "B022": "755501"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "GP22",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "GP22",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "GP23",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "GP23",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "GP24",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "GP24",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "GP25",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "GP25",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M2",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M2",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M4",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M4",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M6",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M6",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M7",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M7",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M8",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M8",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M9",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M9",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M184",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M184",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M25",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M25",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M26",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "DefaultValue": {
+        "B032": "4030",
+        "B022": "741100"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M26",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "DefaultValue": {
+        "B034": "4030",
+        "B022": "741100"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M27",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "DefaultValue": {
+        "B032": "4030",
+        "B022": "301300"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M27",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "DefaultValue": {
+        "B034": "4030",
+        "B022": "301300"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M28",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "DefaultValue": {
+        "B032": "4010",
+        "B022": "740100"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M28",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "DefaultValue": {
+        "B034": "4010",
+        "B022": "740100"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M29",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M29",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M30",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "DefaultValue": {
+        "B032": "4010",
+        "B022": "740100"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M30",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "DefaultValue": {
+        "B034": "4010",
+        "B022": "740100"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M31",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M31",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M32",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "DefaultValue": {
+        "B032": "4010",
+        "B022": "740100"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M32",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "DefaultValue": {
+        "B034": "4010",
+        "B022": "740100"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M33",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M33",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M34",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "DefaultValue": {
+        "B032": "4010",
+        "B022": "740100"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M34",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "DefaultValue": {
+        "B034": "4010",
+        "B022": "740100"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M35",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M35",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M67",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M67",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M192",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M192",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M14",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M14",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M18",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M18",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M65",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "DefaultValue": {
+        "B032": "1360",
+        "B022": "301300"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M65",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "DefaultValue": {
+        "B034": "1360",
+        "B022": "301300"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M91",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "DefaultValue": {
+        "B032": "1360",
+        "B022": "303300"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M91",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "DefaultValue": {
+        "B034": "1360",
+        "B022": "303300"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M187",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M187",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M189",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M189",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "M200",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "DefaultValue": {
+        "B032": "1360",
+        "B022": "303300"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "M200",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "DefaultValue": {
+        "B034": "1360",
+        "B022": "303300"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "PRJC1",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "PRJC1",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "SP3",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "DefaultValue": {
+        "B032": "1360",
+        "B022": "303300"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "SP3",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "DefaultValue": {
+        "B034": "1360",
+        "B022": "303300"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "PRJC2",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "PRJC2",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "PP4",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "PP4",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "PP12",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "DefaultValue": {
+        "B032": "8040",
+        "B022": "755500"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "PP12",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "DefaultValue": {
+        "B034": "8040",
+        "B022": "755500"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "PP13",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "DefaultValue": {
+        "B032": "7040",
+        "B022": "755100"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "PP13",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "DefaultValue": {
+        "B034": "7040",
+        "B022": "755100"
+      }
+    }
+  },
+  {
+    "Company": "B032",
+    "PostingType": "PP16",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "PP16",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "PP17",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "PP17",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "PP74",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "PP74",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "PP75",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "PP75",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "PP79",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "PP79",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "PP80",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "PP80",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "PP83",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "PP83",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "PP84",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "PP84",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "GP9",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B034",
+    "PostingType": "GP9",
+    "CodeName": "Local Acct",
+    "Difference": "PostingType not found"
+  },
+  {
+    "Company": "B032",
+    "PostingType": "IP18",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "ControlType": {
+        "B032": "AC1",
+        "B022": "IC1"
+      },
+      "ControlTypeDesc": {
+        "B032": "Fixed value",
+        "B022": "Supplier Group"
+      },
+      "Module": {
+        "B032": "ACCRUL",
+        "B022": "INVOIC"
+      },
+      "DefaultValue": {
+        "B032": "1215",
+        "B022": null
+      },
+      "CtrlTypeCategory": {
+        "B032": "FixedValue",
+        "B022": "Ordinary"
+      }
+    }
+  },
+  {
+    "Company": "B034",
+    "PostingType": "IP18",
+    "CodeName": "Local Acct",
+    "Difference": {
+      "ControlType": {
+        "B034": "AC1",
+        "B022": "IC1"
+      },
+      "ControlTypeDesc": {
+        "B034": "Fixed value",
+        "B022": "Supplier Group"
+      },
+      "Module": {
+        "B034": "ACCRUL",
+        "B022": "INVOIC"
+      },
+      "DefaultValue": {
+        "B034": "1215",
+        "B022": null
+      },
+      "CtrlTypeCategory": {
+        "B034": "FixedValue",
+        "B022": "Ordinary"
+      }
+    }
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "Identity": "TESTING_USER13",
+    "Source": "CfgEnvironment",
+    "MissingFrom": "AccEnvironment",
+    "@odata.etag": "W/\"Vy8iQUFBUHREQUJlQUFBQXQzQUF2OjEi\"",
+    "luname": "FndUser",
+    "keyref": "IDENTITY=TESTING_USER13^",
+    "Objgrants": null,
+    "Description": "BPMS AP Accountant?",
+    "WebUser": "TESTING_USER13",
+    "UserType": "EndUser",
+    "Active": true,
+    "ValidFrom": null,
+    "ValidTo": null,
+    "DefaultIdp": true,
+    "FromScim": "FALSE",
+    "UserEmail": null,
+    "PreferredLanguage": "en",
+    "HasPinCode": false,
+    "PersonId": "ANBO",
+    "IsLtuUser": false,
+    "PersonCreation": null
+  },
+  {
+    "Identity": "IFSPRINT",
+    "differences": {
+      "Description": {
+        "CfgEnvironment": "IFS Print Server user",
+        "AccEnvironment": "IFS Print Testing"
+      },
+      "WebUser": {
+        "CfgEnvironment": "IFSPRINT",
+        "AccEnvironment": "IFSPRINTs"
+      }
+    }
+  },
+  {
+    "Identity": "PMA",
+    "Source": "AccEnvironment",
+    "MissingFrom": "CfgEnvironment",
+    "@odata.etag": "W/\"Vy8iQUFBUHREQUJlQUFBQXQzQUF5OjMi\"",
+    "luname": "FndUser",
+    "keyref": "IDENTITY=PMA^",
+    "Objgrants": null,
+    "Description": "Philippe Marie ",
+    "WebUser": "PMARIE@BOCCARD.FR",
+    "UserType": "EndUser",
+    "Active": true,
+    "ValidFrom": null,
+    "ValidTo": null,
+    "DefaultIdp": false,
+    "FromScim": "FALSE",
+    "UserEmail": "PMARIE@BOCCARD.FR",
+    "PreferredLanguage": null,
+    "HasPinCode": false,
+    "PersonId": "PMA",
+    "IsLtuUser": false,
+    "PersonCreation": null
+  }
+]
